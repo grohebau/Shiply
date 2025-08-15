@@ -1,0 +1,19 @@
+{
+  "G88164": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Voigt, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Knut Peter Hoffmann, Seitenstraße 18, 04463 Großpösna, Deutschland",
+    "price": "10.850 €",
+    "description": "Hersteller: Rewaco<br>Typ: HS4 family<br>Fahrgestelnummer: W09HS4H3L4LR38811<br>Erstzulassung: 06/2008<br>KM laut Vorbesitzer: 6.500 km<br>Leistung: 48 kW (65 PS)<br>Hubraum: 1.775 cm³ <br>Farbe: Rot<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Knut Peter Hoffmann<br>Seitenstraße 18<br>04463 Großpösna<br>Deutschland<br>Telefon: +49 172 9875727",
+    "documents": [
+      { "name": "Lieferschein", "url": "docs/Lieferschein.pdf" },
+      { "name": "Kaufvertrag", "url": "docs/Kaufvertrag.pdf" },
+      { "name": "Rechnung", "url": "docs/Rechnung.pdf" },
+      { "name": "AGB", "url": "docs/AGB.pdf" }
+    ],
+    "orderDate": "15-08-2025",
+    "deliveryDate": "20-08-2025"
+  }
+}
